@@ -1,13 +1,10 @@
 package com.Ranjith.quizApp.controller;
 
-import com.Ranjith.quizApp.model.Question;
+
 import com.Ranjith.quizApp.model.QuestionWrapper;
 import com.Ranjith.quizApp.model.Responses;
 import com.Ranjith.quizApp.service.QuizService;
-import org.apache.coyote.Response;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -2,7 +2,6 @@ package com.Ranjith.quizApp.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import lombok.Generated;
 
 import java.util.List;
 
